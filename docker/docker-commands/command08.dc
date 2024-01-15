@@ -1,1 +1,1 @@
-docker stop -t 0 02images
+docker stop 02images
